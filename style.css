@@ -1,0 +1,22 @@
+nav {
+  float: right;
+  font-family: sans-serif;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 25px;
+}
+
+nav a {
+  color: blue;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 18px;
+}
