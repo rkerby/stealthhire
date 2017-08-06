@@ -1,6 +1,13 @@
+body {
+  background-color: white;
+}
+
 nav {
-  float: right;
-  font-family: sans-serif;
+  background: #18BC9C;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  padding-bottom: 10px;
+  padding-top: 10px;
 }
 
 nav ul {
@@ -15,7 +22,7 @@ nav li {
 }
 
 nav a {
-  color: blue;
+  color: white;
   text-decoration: none;
   text-transform: uppercase;
   font-size: 18px;
